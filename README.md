@@ -1,4 +1,4 @@
-# Source Code for Mining Data with Python Course
+# Source Code for Mining Data on Twitter with Python Course
 
 These are the companion files for working on the excercises in the [Mining Data on Twitter with Python](https://www.youtube.com/playlist?list=PLmcBskOCOOFW1SNrz6_yzCEKGvh65wYb9) tutorial on our Youtube Channel
 
